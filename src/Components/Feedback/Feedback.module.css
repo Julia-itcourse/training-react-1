@@ -1,0 +1,16 @@
+.section {
+    margin-top: 50px;
+    padding: 25px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 10px 10px rgba(90, 90, 92, 0.3);
+}
+
+.btns {
+    Margin-top: 20px;
+}
+
+.stats {
+    Margin-top: 20px;
+}
+
